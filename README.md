@@ -1,5 +1,8 @@
 # Cosmographia
 
+REQUIRES qmake4 and QT4 to build !!!
+
+
 Cosmographia is an application for visualization of space missions and Solar System exploration. It uses spacecraft trajectories and planet ephemerides from SPICE kernels to precisely reproduce the geometry of encounters.
 
 Features
